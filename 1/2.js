@@ -1,2 +1,2 @@
-const tag = 202305059999
+const tag = 'v1.0.0'
 export default tag
